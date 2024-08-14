@@ -34,20 +34,22 @@ To run this project locally:
    ```
 2. Navigate to the project directory
 
-```bash
-cd post-pulse
-```
+   ```bash
+   cd post-pulse
+   ```
 
 3. Install dependencies
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. Start the development server
 
-```bash
-npm run dev
+   ```bash
+   npm run dev
+   ```
+
 ```
 
 ## 📚 API Integration
@@ -66,3 +68,4 @@ This project uses the DummyJSON API for fetching and manipulating blog post data
 ## 📬 Contact
 
 I’m open to feedback, questions, or collaboration opportunities! Feel free to reach out via `abdosamehdev@gmail.com` or connect with me on LinkedIn.
+```
