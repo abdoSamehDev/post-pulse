@@ -66,7 +66,3 @@ This project uses the DummyJSON API for fetching and manipulating blog post data
 ## 📬 Contact
 
 I’m open to feedback, questions, or collaboration opportunities! Feel free to reach out via `abdosamehdev@gmail.com` or connect with me on LinkedIn.
-
-```
-
-```
